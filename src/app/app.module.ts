@@ -9,10 +9,14 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatListModule } from '@angular/material/list';
 import { MatButtonModule } from '@angular/material/button';
+import { FlutterComponent } from './components/flutter/flutter.component';
+import { HomeComponent } from './components/home/home.component';
 
 @NgModule({
   declarations: [
     AppComponent,
+    FlutterComponent,
+    HomeComponent,
   ],
   imports: [
     BrowserModule,
