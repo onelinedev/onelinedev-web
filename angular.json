@@ -114,6 +114,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "onelinedev-web"
+    }
+  },
+  "defaultProject": "onelinedev-web",
+  "cli": {
+    "analytics": "7240ed24-90bb-4304-904b-f5feb4184c87"
+  }
 }
